@@ -1,0 +1,41 @@
+body {
+  font-family: Helvetica;
+}
+
+.home {
+  color: white;
+  text-align: center;
+  }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+  .home a {
+    font-size: 18px;
+    color: white;
+  }
+  h2 {
+    font-size: 32px;
+    }
+  .main h2, h3 {
+    text-align: center;
+    font-weight: bold;
+    }
+    h3 {
+      font-size: 23px;
+    }
+    .main p {
+      font-size: 14px;
+      text-align: center;
+      }
+    .footer {
+      background-color: dimgray;
+    }
+     .footer p, a {
+      font-size: 11px;
+      color: white;
+      text-align: left;
+      display: inline-block;
+    }
